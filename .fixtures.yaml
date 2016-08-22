@@ -1,0 +1,5 @@
+fixtures:
+  repositories:
+    vmware_lib: 'https://github.com/vmware/vmware-vmware_lib.git'
+  symlinks:
+    'vcd': "#{source_dir}"
