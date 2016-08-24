@@ -1,3 +1,4 @@
+# Copyright (C) 2013-2016 VMware, Inc.
 require 'spec_helper'
 require 'spec/fixtures/modules/vmware_lib/lib/puppet_x/puppetlabs/transport.rb'
 require 'spec/fixtures/modules/vcd/lib/puppet_x/puppetlabs/transport/vcd.rb'
